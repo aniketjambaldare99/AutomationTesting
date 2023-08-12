@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-10T19:04:14 IST" name="Suite" finished-at="2023-08-10T19:04:14 IST" duration-ms="94">
+    <groups>
+      <group name="Regression">
+        <method signature="_6_RunByGropingTestCases.Regression_1()[pri:0, instance:auto_Testng._6_RunByGropingTestCases@1d296da]" name="Regression_1" class="auto_Testng._6_RunByGropingTestCases"/>
+        <method signature="_6_RunByGropingTestCases.Regression_2()[pri:0, instance:auto_Testng._6_RunByGropingTestCases@1d296da]" name="Regression_2" class="auto_Testng._6_RunByGropingTestCases"/>
+        <method signature="_7_CritAndRegrHaveSameTestCase.CriticalRegressionRegression()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" name="CriticalRegressionRegression" class="auto_Testng._7_CritAndRegrHaveSameTestCase"/>
+        <method signature="_7_CritAndRegrHaveSameTestCase.Regression()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" name="Regression" class="auto_Testng._7_CritAndRegrHaveSameTestCase"/>
+        <method signature="_7_CritAndRegrHaveSameTestCase.Regression_1()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" name="Regression_1" class="auto_Testng._7_CritAndRegrHaveSameTestCase"/>
+      </group> <!-- Regression -->
+      <group name="CriticalRegression">
+        <method signature="_7_CritAndRegrHaveSameTestCase.CriticalRegressionRegression()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" name="CriticalRegressionRegression" class="auto_Testng._7_CritAndRegrHaveSameTestCase"/>
+      </group> <!-- CriticalRegression -->
+    </groups>
+    <test started-at="2023-08-10T19:04:14 IST" name="Test" finished-at="2023-08-10T19:04:14 IST" duration-ms="94">
+      <class name="auto_Testng._7_CritAndRegrHaveSameTestCase">
+        <test-method signature="CriticalRegressionRegression()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" started-at="2023-08-10T19:04:14 IST" name="CriticalRegressionRegression" finished-at="2023-08-10T19:04:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CriticalRegressionRegression -->
+        <test-method signature="Regression()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" started-at="2023-08-10T19:04:14 IST" name="Regression" finished-at="2023-08-10T19:04:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regression -->
+        <test-method signature="Regression_1()[pri:0, instance:auto_Testng._7_CritAndRegrHaveSameTestCase@36ebc363]" started-at="2023-08-10T19:04:14 IST" name="Regression_1" finished-at="2023-08-10T19:04:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regression_1 -->
+      </class> <!-- auto_Testng._7_CritAndRegrHaveSameTestCase -->
+      <class name="auto_Testng._6_RunByGropingTestCases">
+        <test-method signature="Regression_1()[pri:0, instance:auto_Testng._6_RunByGropingTestCases@1d296da]" started-at="2023-08-10T19:04:14 IST" name="Regression_1" finished-at="2023-08-10T19:04:14 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regression_1 -->
+        <test-method signature="Regression_2()[pri:0, instance:auto_Testng._6_RunByGropingTestCases@1d296da]" started-at="2023-08-10T19:04:14 IST" name="Regression_2" finished-at="2023-08-10T19:04:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regression_2 -->
+      </class> <!-- auto_Testng._6_RunByGropingTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

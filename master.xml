@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="auto_Testng._5_DecisionsForTest"/>
+      <class name="auto_Testng._0_BrowserOpeningAndClosing"/>
+      <class name="auto_Testng._1_TestAnnotations"/>
+      <class name="auto_Testng._2_InheritateOtherClass"/>
+      <class name="auto_Testng._3_DefaultPriority"/>
+      <class name="auto_Testng._4_ManualPriority"/>
+      <class name="auto_Testng._6_RunByGropingTestCases"/>
+      <class name="auto_Testng._7_CritAndRegrHaveSameTestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
